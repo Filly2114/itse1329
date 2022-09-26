@@ -1,3 +1,4 @@
+package week03
 fun main(){
     val baseFee = 10
     var total = 0.0

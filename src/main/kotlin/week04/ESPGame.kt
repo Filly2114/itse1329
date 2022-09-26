@@ -1,22 +1,18 @@
-/*import kotlin.random.Random
-
-fun main() {
-    println("!!!!!!! Welcome to Guess the Color game !!!!!!!")
-    println("Select a color from these:\n  Red\n  Green\n  Blue\n  Orange\n  Yellow\n")
-    val input = readln()
-    val rand= Random()
-    val colors = arrayOf(
-        "Red", "Green", "Blue", "Orange", "Yellow"
-    )
-
-    var correct = 0
-    for (i in 0..9) {
-        val randIndex = rand.toInt()
-
-        if (input.equals(rand)) {
-            correct++
+fun main(){
+    val randomColor = arrayOf<String>("Red", "Green", "Blue", "Orange", "Yellow")
+    var count = 0
+    println("Try to guess may random color from: Red, Green, Blue, Orange, Yellow")
+    println("You have 10 guesses, try to challenge me!" )
+    
+    for (i in 1..10){
+        val color = randomColor.random()
+        println("Enter a color: ")
+        val inputColor = readln()
+        if (inputColor== color){
+            println("Congrats!!!")
+            count++
+        }else{
+            println("Try again, the color was $color ")
         }
-        println("Color is $rand")
-        println("User is correct %d times $correct")
     }
-}*/
+}

@@ -1,23 +1,26 @@
-/*fun main(){
-    var count = 0
-    print("Enter a string: ")
-    val input = readLine()
+import java.util.*
+fun main(arg: Array<String>) {
+// ask the user to enter string
+    print("Enter the string: ")
 
-    print("Enter a character: ")
-    val letter = readLine()
+// create scanner object
+    val scan = Scanner(System.`in`)
+    val valueOfString = scan.next()
 
- val char = input!!.length
+// now ask user to enter character
+    print("Enter the character to count: ")
+    val character = scan.next()
 
-    for (i in 1..char ){
-        print(input[i])
-        if (input[i] == letter){
-            count++
+// now extract character and find counts
+    var counts = 0
+    for (i in 0 until valueOfString.length) {
+        if (character[0] == valueOfString[i]) {
+            counts++
         }
     }
 
-    print("You have $char characters and $count of them are the letter $letter")
-
-
-}*/
+// print the count
+    println("Count of $character in string $valueOfString is: $counts")
+}
 
 

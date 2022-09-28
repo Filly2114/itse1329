@@ -1,9 +1,6 @@
-package week04
 fun main(args: Array<String>) {
     val sales = IntArray(5)
-    val input = Integer.valueOf(readln())
-
-        var index = 0
+    var index = 0
         while (index < sales.size) {
             print("Enter today's sales for store " + (index + 1) + ":")
             sales[index] = Integer.valueOf(readln())
@@ -11,10 +8,10 @@ fun main(args: Array<String>) {
         }
 
     println("SALES BAR CHART")
-    //var sal = 0
-    while (index < sales.size) {
-        print("Store " + (index + 1) + ":")
-        val stars = sales[index] / 100
+    var sal = 0
+    while (sal < sales.size) {
+        print("Store " + (sal + 1) + ":")
+        val stars = sales[sal] / 100
         var star = 1
         while (star <= stars) {
 
@@ -23,6 +20,6 @@ fun main(args: Array<String>) {
             star += 1
         }
         println()
-        index += 1
+        sal += 1
     }
 }

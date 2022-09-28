@@ -1,6 +1,7 @@
-fun main(args: Array<String>) {
-    val percentage = 0.62
-    val total = 4600000.0
-    val prediction = percentage * total
-    println(prediction)
+fun main(){
+print("Enter total company's sales amount: ")
+var  sales = readln()
+val percentage = 0.62
+val prediction = percentage * sales.toDouble()
+println("The east company's sales is $prediction")
 }

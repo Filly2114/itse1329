@@ -5,7 +5,7 @@ fun main() {
     println("I'm thinking of a number from 0 to 99 - enter a guess: ")
 
     var count = 0
-    val result = ""
+    //val result = ""
     val done = false
     while (!done) {
         count++

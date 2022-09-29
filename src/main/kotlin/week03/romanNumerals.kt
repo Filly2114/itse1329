@@ -1,6 +1,6 @@
 fun main() {
     print("Enter a number between 1 and 10: ")
-    var number = Integer.valueOf(readln())
+    var number = Integer.valueOf(readLine())
 
        when(number){
            1 -> print("I")

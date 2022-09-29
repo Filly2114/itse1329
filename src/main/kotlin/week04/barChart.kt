@@ -3,7 +3,7 @@ fun main(args: Array<String>) {
     var index = 0
         while (index < sales.size) {
             print("Enter today's sales for store " + (index + 1) + ":")
-            sales[index] = Integer.valueOf(readln())
+            sales[index] = Integer.valueOf(readLine())
             index += 1
         }
 

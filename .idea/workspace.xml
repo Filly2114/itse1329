@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="0d15ea4c-256a-49c4-b361-e2131efac16d" name="Changes" comment="completed">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/itse1329/MagicDatesKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/itse1329/MagicDatesKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/itse1329/RomanNumeralsKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/itse1329/RomanNumeralsKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/itse1329/MassWeightKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/itse1329/MassWeightKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/week03/sortedNames.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/week03/sortedNames.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +43,7 @@
       <recent name="C:\Users\Filmon\IdeaProjects\itse1329\src\main\kotlin" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.MassWeightKt">
+  <component name="RunManager" selected="Kotlin.SortedNamesKt">
     <configuration name="BarChartKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BarChartKt" />
       <module name="itse1329" />
@@ -72,8 +72,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SalesPredictionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SalesPredictionKt" />
+    <configuration name="SortedNamesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SortedNamesKt" />
       <module name="itse1329" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -81,11 +81,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.SortedNamesKt" />
         <item itemvalue="Kotlin.MassWeightKt" />
         <item itemvalue="Kotlin.MagicDatesKt" />
         <item itemvalue="Kotlin.BarChartKt" />
         <item itemvalue="Kotlin.PopulationKt" />
-        <item itemvalue="Kotlin.SalesPredictionKt" />
       </list>
     </recent_temporary>
   </component>
@@ -100,7 +100,7 @@
       <workItem from="1663855655877" duration="66528000" />
       <workItem from="1664291950312" duration="1827000" />
       <workItem from="1664374128397" duration="5287000" />
-      <workItem from="1664413869265" duration="3880000" />
+      <workItem from="1664413869265" duration="4181000" />
     </task>
     <task id="LOCAL-00001" summary="completed">
       <created>1664153697307</created>
@@ -186,7 +186,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664419422891</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="completed">
+      <created>1664419828259</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1664419828259</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

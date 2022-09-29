@@ -1,12 +1,12 @@
 fun main() {
     print("Enter the first name: ")
-    val name1 = readln()
+    val name1 = readLine()!!
 
     print("Enter the second name: ")
-    val name2 = readln()
+    val name2 = readLine()!!
 
     print("Enter the third name: ")
-    val name3 = readln()
+    val name3 = readLine()!!
 
     if ((name1.compareTo(name2)) < 0 && (name1.compareTo(name3)) < 0) {
         println(name1)

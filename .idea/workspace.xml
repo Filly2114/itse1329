@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="0d15ea4c-256a-49c4-b361-e2131efac16d" name="Changes" comment="completed">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/itse1329/SalesPredictionKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/itse1329/SalesPredictionKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/week04/population.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/week04/population.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,16 +43,16 @@
       <recent name="C:\Users\Filmon\IdeaProjects\itse1329\src\main\kotlin" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.SalesPredictionKt">
-    <configuration name="BarChartKt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week04.BarChartKt" />
+  <component name="RunManager" selected="Kotlin.PopulationKt">
+    <configuration name="BarChartKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BarChartKt" />
       <module name="itse1329" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BarChartKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BarChartKt" />
+    <configuration name="MagicDatesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MagicDatesKt" />
       <module name="itse1329" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -63,6 +65,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PopulationKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PopulationKt" />
+      <module name="itse1329" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SalesPredictionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SalesPredictionKt" />
       <module name="itse1329" />
@@ -70,20 +79,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StarPatternKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StarPatternKt" />
-      <module name="itse1329" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.PopulationKt" />
+        <item itemvalue="Kotlin.MagicDatesKt" />
         <item itemvalue="Kotlin.SalesPredictionKt" />
         <item itemvalue="Kotlin.BarChartKt" />
         <item itemvalue="Kotlin.NumberGuessingKt" />
-        <item itemvalue="Kotlin.StarPatternKt" />
-        <item itemvalue="Kotlin.BarChartKt (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -97,7 +99,7 @@
       <updated>1663855654194</updated>
       <workItem from="1663855655877" duration="66528000" />
       <workItem from="1664291950312" duration="1827000" />
-      <workItem from="1664374128397" duration="3096000" />
+      <workItem from="1664374128397" duration="5287000" />
     </task>
     <task id="LOCAL-00001" summary="completed">
       <created>1664153697307</created>
@@ -155,7 +157,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664396739133</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="completed">
+      <created>1664398383492</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1664398383492</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

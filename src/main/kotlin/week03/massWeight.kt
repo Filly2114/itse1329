@@ -1,6 +1,6 @@
 fun main(){
     print("Enter mass in Newtons: ")
-    val mass = Integer.valueOf(readln())
+    val mass = Integer.valueOf(readLine())
     if(mass>1000){
         println("Mass is too heavy.")
     }

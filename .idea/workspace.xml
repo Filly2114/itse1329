@@ -43,7 +43,7 @@
       <recent name="C:\Users\Filmon\IdeaProjects\itse1329\src\main\kotlin" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.BarChartKt">
+  <component name="RunManager" selected="Kotlin.MagicDatesKt">
     <configuration name="BarChartKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BarChartKt" />
       <module name="itse1329" />
@@ -81,9 +81,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.MagicDatesKt" />
         <item itemvalue="Kotlin.BarChartKt" />
         <item itemvalue="Kotlin.PopulationKt" />
-        <item itemvalue="Kotlin.MagicDatesKt" />
         <item itemvalue="Kotlin.SalesPredictionKt" />
         <item itemvalue="Kotlin.NumberGuessingKt" />
       </list>

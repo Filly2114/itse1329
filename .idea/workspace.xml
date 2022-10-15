@@ -2,14 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d15ea4c-256a-49c4-b361-e2131efac16d" name="Changes" comment="completed">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/week02/declarationInitialization.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/itse1329/MassWeightKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/itse1329/MassWeightKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/week03/sortedNames.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/week03/sortedNames.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -43,9 +49,16 @@
       <recent name="C:\Users\Filmon\IdeaProjects\itse1329\src\main\kotlin" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.SortedNamesKt">
+  <component name="RunManager" selected="Kotlin.DeclarationInitializationKt">
     <configuration name="BarChartKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BarChartKt" />
+      <module name="itse1329" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeclarationInitializationKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DeclarationInitializationKt" />
       <module name="itse1329" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -65,13 +78,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PopulationKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PopulationKt" />
-      <module name="itse1329" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="SortedNamesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SortedNamesKt" />
       <module name="itse1329" />
@@ -81,11 +87,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.DeclarationInitializationKt" />
         <item itemvalue="Kotlin.SortedNamesKt" />
         <item itemvalue="Kotlin.MassWeightKt" />
         <item itemvalue="Kotlin.MagicDatesKt" />
         <item itemvalue="Kotlin.BarChartKt" />
-        <item itemvalue="Kotlin.PopulationKt" />
       </list>
     </recent_temporary>
   </component>
@@ -100,7 +106,9 @@
       <workItem from="1663855655877" duration="66528000" />
       <workItem from="1664291950312" duration="1827000" />
       <workItem from="1664374128397" duration="5287000" />
-      <workItem from="1664413869265" duration="4181000" />
+      <workItem from="1664413869265" duration="4870000" />
+      <workItem from="1665669924647" duration="36000" />
+      <workItem from="1665669986207" duration="3234000" />
     </task>
     <task id="LOCAL-00001" summary="completed">
       <created>1664153697307</created>
@@ -193,7 +201,21 @@
       <option name="project" value="LOCAL" />
       <updated>1664419828259</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="completed">
+      <created>1664420073289</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1664420073289</updated>
+    </task>
+    <task id="LOCAL-00015" summary="completed">
+      <created>1664420301118</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1664420301118</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

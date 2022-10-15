@@ -1,3 +1,4 @@
+package week02
 fun main() {
 
     // 1. constant myAge variable

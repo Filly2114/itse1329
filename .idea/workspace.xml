@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0d15ea4c-256a-49c4-b361-e2131efac16d" name="Changes" comment="completed">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/week02/declarationInitialization.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="0d15ea4c-256a-49c4-b361-e2131efac16d" name="Changes" comment="completed" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,9 +46,9 @@
       <recent name="C:\Users\Filmon\IdeaProjects\itse1329\src\main\kotlin" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.DeclarationInitializationKt">
-    <configuration name="BarChartKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BarChartKt" />
+  <component name="RunManager" selected="Kotlin.DeclarationInitializationKt (1)">
+    <configuration name="DeclarationInitializationKt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week02.DeclarationInitializationKt" />
       <module name="itse1329" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -87,11 +84,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.DeclarationInitializationKt (1)" />
         <item itemvalue="Kotlin.DeclarationInitializationKt" />
         <item itemvalue="Kotlin.SortedNamesKt" />
         <item itemvalue="Kotlin.MassWeightKt" />
         <item itemvalue="Kotlin.MagicDatesKt" />
-        <item itemvalue="Kotlin.BarChartKt" />
       </list>
     </recent_temporary>
   </component>
@@ -108,7 +105,7 @@
       <workItem from="1664374128397" duration="5287000" />
       <workItem from="1664413869265" duration="4870000" />
       <workItem from="1665669924647" duration="36000" />
-      <workItem from="1665669986207" duration="3234000" />
+      <workItem from="1665669986207" duration="3576000" />
     </task>
     <task id="LOCAL-00001" summary="completed">
       <created>1664153697307</created>
@@ -215,7 +212,28 @@
       <option name="project" value="LOCAL" />
       <updated>1664420301118</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="completed">
+      <created>1665872363290</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1665872363290</updated>
+    </task>
+    <task id="LOCAL-00017" summary="completed">
+      <created>1665872438348</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1665872438348</updated>
+    </task>
+    <task id="LOCAL-00018" summary="completed">
+      <created>1665872592876</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1665872592876</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

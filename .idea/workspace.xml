@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d15ea4c-256a-49c4-b361-e2131efac16d" name="Changes" comment="completed">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/week05/celsiusTable.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/week05/fallingDistance.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/week05/priceCalculator.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/week05/primeTime.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/week05/recursiveFunction.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/week05/rockPaperScissors.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/week05/stockProfit.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/itse1329/META-INF/itse1329.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/itse1329/META-INF/itse1329.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/itse1329/META-INF/itse1329.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/week05/recursiveFunction.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/week05/recursiveFunction.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +50,7 @@
       <recent name="C:\Users\Filmon\IdeaProjects\itse1329\src\main\kotlin" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.RockPaperScissorsKt">
+  <component name="RunManager" selected="Kotlin.RecursiveFunctionKt">
     <configuration name="CelsiusTableKt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week05.CelsiusTableKt" />
       <module name="itse1329" />
@@ -78,8 +72,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrimeTimeKt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week05.PrimeTimeKt" />
+    <configuration name="RecursiveFunctionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week05.RecursiveFunctionKt" />
       <module name="itse1329" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -94,11 +88,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.RecursiveFunctionKt" />
         <item itemvalue="Kotlin.RockPaperScissorsKt" />
         <item itemvalue="Kotlin.PriceCalculatorKt" />
         <item itemvalue="Kotlin.CelsiusTableKt (1)" />
         <item itemvalue="Kotlin.CelsiusTableKt" />
-        <item itemvalue="Kotlin.PrimeTimeKt (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -118,7 +112,7 @@
       <workItem from="1665669986207" duration="3887000" />
       <workItem from="1665874640609" duration="600000" />
       <workItem from="1666221615640" duration="5040000" />
-      <workItem from="1666476587396" duration="7154000" />
+      <workItem from="1666476587396" duration="8426000" />
     </task>
     <task id="LOCAL-00001" summary="completed">
       <created>1664153697307</created>
@@ -253,7 +247,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665872771854</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="completed">
+      <created>1666485739455</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1666485739456</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

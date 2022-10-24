@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d15ea4c-256a-49c4-b361-e2131efac16d" name="Changes" comment="completed">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/week05/rockPaperScissors.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/week05/rockPaperScissors.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/itse1329/META-INF/itse1329.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/itse1329/META-INF/itse1329.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/week05/fallingDistance.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/week05/fallingDistance.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,9 +49,9 @@
       <recent name="C:\Users\Filmon\IdeaProjects\itse1329\src\main\kotlin" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.RockPaperScissorsKt (1)">
-    <configuration name="CelsiusTableKt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week05.CelsiusTableKt" />
+  <component name="RunManager" selected="Kotlin.FallingDistanceKt">
+    <configuration name="FallingDistanceKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week05.FallingDistanceKt" />
       <module name="itse1329" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -87,11 +87,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.FallingDistanceKt" />
         <item itemvalue="Kotlin.RockPaperScissorsKt (1)" />
         <item itemvalue="Kotlin.RockPaperScissorsKt" />
         <item itemvalue="Kotlin.RecursiveFunctionKt" />
         <item itemvalue="Kotlin.PriceCalculatorKt" />
-        <item itemvalue="Kotlin.CelsiusTableKt (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -111,7 +111,7 @@
       <workItem from="1665669986207" duration="3887000" />
       <workItem from="1665874640609" duration="600000" />
       <workItem from="1666221615640" duration="5040000" />
-      <workItem from="1666476587396" duration="9923000" />
+      <workItem from="1666476587396" duration="10395000" />
     </task>
     <task id="LOCAL-00001" summary="completed">
       <created>1664153697307</created>
@@ -260,7 +260,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666495907068</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="completed">
+      <created>1666502956005</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1666502956005</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
